@@ -883,8 +883,8 @@ html {
   }
 }
 
-@media (max-height: 601px) {
+@media (max-height: 650px) {
   .link__title {
-    margin: 0 0 4rem 0;
+    margin: 0 0 3rem 0;
   }
 }
