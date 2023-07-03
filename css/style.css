@@ -818,7 +818,7 @@ html {
 
 @media (max-height: 560px) {
   .header__title {
-    font-size: 50px;
+    font-size: 24px;
   }
 
   .header__body {
